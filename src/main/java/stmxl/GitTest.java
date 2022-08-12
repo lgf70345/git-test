@@ -13,6 +13,7 @@ import java.net.ServerSocket;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("Hello git");
+        System.out.println("Hello git2");
         System.out.println("args = " + args);
         for (int i = 0; i < 2; i++) {
             System.out.println("i = " + i);
